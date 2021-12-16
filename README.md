@@ -1,4 +1,4 @@
-一个学生
+自制的我的程序将放在Github上
 I'm making the Boine Hong in the future
 
 <!---
