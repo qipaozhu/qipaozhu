@@ -1,7 +1,5 @@
-自制的我的程序将放在Github上
-I'm making the Boine Hong in the future
+I'm a noob,but i like to write the code.I learn Unity,C++ by myself.
 
 <!---
-qipaozhu/qipaozhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+林泓傻逼，厕所牛逼
 --->
