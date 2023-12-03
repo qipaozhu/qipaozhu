@@ -1,5 +1,2 @@
-I'm a noob,but i like to write the code.I learn Unity,C++ by myself.
+不知道在干什么罢了
 
-<!---
-林泓傻逼，厕所牛逼
---->
